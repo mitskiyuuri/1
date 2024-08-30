@@ -1,0 +1,17 @@
+.left, .center, .right {
+    float: left; 
+    height: 100px; 
+    box-sizing: border-box; 
+}
+.left {
+    width: 400px;
+    background-color: #f8b400;
+}
+.center {
+    width: 400px; 
+    background-color: #00bcd4;
+}
+.right {
+    width: 400px; 
+    background-color: #ff5722;
+}
